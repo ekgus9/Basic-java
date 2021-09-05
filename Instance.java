@@ -14,7 +14,7 @@ public class Instance {
 		p.close();
 		
 		
-		//inheritance »ó¼Ó
+		//inheritance ìƒì†
 		//Object -> Writer -> PrintWriter
 		
 		

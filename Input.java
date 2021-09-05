@@ -10,7 +10,7 @@ public class Input {
 		
 		
 		// run -> run configurations -> arguments
-		// args -> parameter ¸Å°³º¯¼ö
+		// args -> parameter ë§¤ê°œë³€ìˆ˜
 		String name2 = args[0];
 		System.out.println(name2);
 		
